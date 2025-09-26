@@ -1,0 +1,14 @@
+01 left_ptr
+02 question_arrow
+03 left_ptr_watch
+04 watch
+05 cross
+06 xterm
+07 pencil
+09 sb_v_double_arrow
+10 sb_h_double_arrow
+11 bd_double_arrow
+12 fd_double_arrow
+13 hand1
+14 right_ptr
+15 hand2

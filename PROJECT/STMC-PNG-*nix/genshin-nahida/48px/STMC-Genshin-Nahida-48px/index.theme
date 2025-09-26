@@ -1,0 +1,4 @@
+[Icon Theme]
+Name=STMC-Genshin-Nahida-48px
+Comment=Genshin Nahida style cursor by SamToki, Port to X11 by gdr2333, 48px version
+Inherits=breeze_cursors

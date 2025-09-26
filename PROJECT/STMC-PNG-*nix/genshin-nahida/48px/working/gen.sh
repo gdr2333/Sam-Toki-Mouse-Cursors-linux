@@ -1,0 +1,16 @@
+xcursorgen 01-*.cursor "../STMC-Genshin-Nahida-48px/cursors/left_ptr"
+xcursorgen 02-*.cursor "../STMC-Genshin-Nahida-48px/cursors/question_arrow"
+xcursorgen 03-*.cursor "../STMC-Genshin-Nahida-48px/cursors/left_ptr_watch"
+xcursorgen 04-*.cursor "../STMC-Genshin-Nahida-48px/cursors/watch"
+xcursorgen 05-*.cursor "../STMC-Genshin-Nahida-48px/cursors/cross"
+xcursorgen 06-*.cursor "../STMC-Genshin-Nahida-48px/cursors/xterm"
+xcursorgen 07-*.cursor "../STMC-Genshin-Nahida-48px/cursors/pencil"
+xcursorgen 09-*.cursor "../STMC-Genshin-Nahida-48px/cursors/sb_v_double_arrow"
+xcursorgen 10-*.cursor "../STMC-Genshin-Nahida-48px/cursors/sb_h_double_arrow"
+xcursorgen 11-*.cursor "../STMC-Genshin-Nahida-48px/cursors/bd_double_arrow"
+xcursorgen 12-*.cursor "../STMC-Genshin-Nahida-48px/cursors/fd_double_arrow"
+xcursorgen 13-*.cursor "../STMC-Genshin-Nahida-48px/cursors/hand1"
+xcursorgen 14-*.cursor "../STMC-Genshin-Nahida-48px/cursors/right_ptr"
+xcursorgen 15-*.cursor "../STMC-Genshin-Nahida-48px/cursors/hand2"
+
+bash after.sh
